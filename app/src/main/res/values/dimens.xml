@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="width_edit_text">400dp</dimen>
+    <dimen name="height_edit_text">100dp</dimen>
+    <dimen name="width_edit_text_second">400dp</dimen>
+    <dimen name="heigh_edit_text_second">100dp</dimen>
+    <dimen name="width_button">150dp</dimen>
+    <dimen name="height_button">80dp</dimen>
+    <dimen name="width_text_view">400dp</dimen>
+    <dimen name="height_text_view">100dp</dimen>
+    <dimen name="text_size_button">30sp</dimen>
+    <dimen name="width_button_back">200dp</dimen>
+    <dimen name="height_button_back">100dp</dimen>
+    <dimen name="margin_top_button_back">50dp</dimen>
+    <dimen name="text_size_text_view_result">50sp</dimen>
+    <dimen name="margin_top_text_view_result">100dp</dimen>
+    <dimen name="text_size_feed_back">20sp</dimen>
+    <dimen name="width_text_view_feedback">400dp</dimen>
+    <dimen name="height_text_view_feedback">100dp</dimen>
+    <dimen name="margin_top_show_greeting">50dp</dimen>
+</resources>
